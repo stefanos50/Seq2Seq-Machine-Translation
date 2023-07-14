@@ -16,7 +16,7 @@ Some of the results:
 | 100K  | 49.82  | 40.00 | 9.83 | 1513.91 |
 
 This is an example of translations.
-* npm
+* Console Output
   ```sh
   The given sentense is: it isnt big
   The transtated sentence is: он небольшой
