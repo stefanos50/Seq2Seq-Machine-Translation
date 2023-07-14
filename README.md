@@ -15,7 +15,7 @@ Some of the results:
 | 50K  | 40.23  | 31.45 | 17.13 | 317.29 |
 | 100K  | 49.82  | 40.00 | 9.83 | 1513.91 |
 
-This is an example of translations.
+This is an example of a translation.
 * Console Output
   ```sh
   The given sentense is: it isnt big
